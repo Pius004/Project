@@ -1,0 +1,90 @@
+body{
+    margin: 0px;
+}
+ 
+.f1{
+    width: 1700px;
+    height: 600px;
+    position:absolute;
+    
+
+}
+.fbtn{
+    position: relative;
+    background: antiquewhite;
+    border-radius: 7px;
+    border-color: #380001;
+     margin-top: 20px;
+    margin-bottom: -30px;
+    color: #380001;
+
+}
+.logo{
+    position:relative;
+    margin-top: 20px;
+    width: 75px;
+    height: 60px;
+}
+.ftext{
+    color:#380001;
+    margin-top: 200px;
+    font-family: Trebuchet MS;
+    line-height: 35px;
+}
+
+.sec1{
+    margin-bottom: -5px;
+    align-items: center;
+    justify-content: center;
+}
+ 
+.beam{
+     
+    background-color:#232323e5;
+    width: 100%;
+     
+    border-radius: 10px;
+    height: auto;
+    margin-left: 0px;
+     
+     
+}
+.html{
+    background-color: aliceblue;
+    margin-top: 20px;
+    margin-right: 10px;
+    border-top-left-radius: 15px;
+    width: 300px;
+    height: 220px;
+
+    
+}
+.lefttext{
+    margin-top: 160px;
+    color: bisque;
+}
+.author{
+    border-radius: 260px;
+    width: 250px;
+    height: 260px;
+}
+.rn{
+    background-color: transparent;
+    border-color: bisque;
+    float: right;
+    color: #380001;
+}
+.rn:hover{
+    background-color: #380001;
+    color: white;
+}
+.foot{
+    background-color:#232323;
+    color: antiquewhite;
+    margin-top: -25px;
+    padding: 10px;
+    text-align: justify;
+}
+.form{
+    color: black;
+}
